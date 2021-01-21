@@ -93,3 +93,7 @@ h2 {
 	margin-top: 20px;
 	width: 100%;
 }
+
+button:hover {
+	background-color: rgba(52, 152, 219, 0.7);
+}
